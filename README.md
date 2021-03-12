@@ -8,7 +8,7 @@ The research problem is to figure out how we can predict which individuals are m
  4. Implement the solution by performing the respective analysis i.e. factor analysis, principal component analysis, and discriminant analysis.
  5. Challenge your solution by providing insights on how you can make improvements.
 
-# * Dataset
+# Dataset
 
 The main dataset contains demographic information and what financial services are used by individuals across East Africa. This data was extracted from various Finscope surveys ranging from 2016 to 2018, and more information about these surveys can be found here:
 
