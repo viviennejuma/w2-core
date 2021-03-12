@@ -23,4 +23,11 @@ Finscope Uganda 2018. http://fsduganda.or.ug/finscope-2018-survey-report/
 Dataset Files:
 
 Variable Definitions: http://bit.ly/VariableDefinitions 
+
 Dataset: http://bit.ly/FinancialDataset 
+
+Technologies Used {Python Programming}
+
+Support and contact details {Ideas, questions, and support can be sent to email: wangechivee09@gmail.com}
+
+License {MIT} Copyright (c) {2021} {Moringa School Data Science}
